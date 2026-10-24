@@ -6,4 +6,8 @@ public class ClassA{
         this.x =x;
         this.y =y;
     }
+
+    public  void f1(){
+        //code
+    }
 }

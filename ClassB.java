@@ -16,7 +16,10 @@ public class ClassB{
     public  void  m4(){
         //code
     }
+<<<<<<< Updated upstream
     public  void m5(){
         //code
     }
+=======
+>>>>>>> Stashed changes
 }
