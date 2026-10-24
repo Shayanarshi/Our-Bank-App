@@ -13,4 +13,8 @@ public Employee(int empno, String ename, double sal) {
         return empno;
     }
 
+    public  void setEmpno(int empno){
+        this.empno = empno;
+    }
+
 }
