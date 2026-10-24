@@ -9,5 +9,8 @@ public Employee(int empno, String ename, double sal) {
     this.sal = sal;
 
     }
+    public int getEmpno(){
+        return empno;
+    }
 
 }
