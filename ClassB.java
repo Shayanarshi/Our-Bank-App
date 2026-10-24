@@ -16,5 +16,7 @@ public class ClassB{
     public  void  m4(){
         //code
     }
-
+    public  void m5(){
+        //code
+    }
 }
