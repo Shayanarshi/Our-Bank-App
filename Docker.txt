@@ -1,0 +1,5 @@
+Docker:
+==============
+
+- It is a containerization tool
+- It uses host operating system
